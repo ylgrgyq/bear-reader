@@ -28,7 +28,7 @@ bear_reader headers -t "My Fancy article" -r markdown    Generate TOC in Markdow
 bear_reader title --offset 20 --limit 100                Show the titles of up to 100 articles starting from 20th
 ```
 
-For example, we have an article as:
+For example, we have an article in Bear as:
 ```markdown
 # Testing Article
 ## Title 2
